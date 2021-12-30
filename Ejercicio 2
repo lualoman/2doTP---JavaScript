@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <script type="text/JavaScript" src="java.js"></script>
+    </head>
+    <body>
+        <h3>Práctico Clase 6</h3>
+        <p>Escriba su edad:</p>
+        <input type="text" name="texto" id="texto"/>
+        <input type="button" value="Check Par o Impar" id="texto" onclick="paroimpar();" />
+    </body>
+</html>
