@@ -1,0 +1,11 @@
+function confirmarmayor()
+{
+    var edad = document.getElementById("texto").value;
+    var text = parseInt(edad);
+
+if (text >= 18) {
+    alert("Puede conducir");
+}
+else {
+    alert("No puede conducir");
+}}
